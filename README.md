@@ -25,7 +25,44 @@
 
 <ins>**Ответ:**</ins>
 
-![1]()  
+![1](https://github.com/AndreyFilon/13-01/blob/main/ports-services.jpg)  
+
+#####Найденные уязвимости:  
+Port/Title
+
+21/tcp
+Exploit Title: vsftpd 2.3.4 - Backdoor Command Execution (Metasploit)
+
+53/tcp
+Exploit: BIND 9.4.2 - Remote DNS Cache Poisoning (Metasploit) 
+
+80/tcp
+Apache 1.4/2.2.x - APR 'apr_fnmatch()' Denial of Service
+Apache 2.2.4 - 413 Error HTTP Request Method Cross-Site Scripting 
+
+111/tcp
+RPCBind / libtirpc - Denial of Service
+
+139/tcp
+445/tcp
+Samba < 3.0.20 - Remote Heap Overflow
+
+2121/tcp open  ftp  
+ProFTPD IAC Remote Root Exploit
+ProFTPd IAC 1.3.x - Remote Command Execution
+
+3306/tcp 
+MySQL 5.0.x - Single Row SubSelect Remote Denial of Service 
+MySQL 5.0.x - IF Query Handling Remote Denial of Service 
+
+5432/tc
+PostgreSQL 8.3.6 - Conversion Encoding Remote Denial of Service
+PostgreSQL 8.3.6 - Low Cost Function Information Disclosure
+PostgreSQL 8.2/8.3/8.4 - UDF for Command Execution
+
+5900/tcp
+VNC Keyboard - Remote Code Execution (Metasploit)
+
 ---
 
 ### Задание 2
