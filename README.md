@@ -31,22 +31,25 @@
 Port/Title  
 
 21/tcp  
-Exploit Title: vsftpd 2.3.4 - Backdoor Command Execution (Metasploit)
-https://www.exploit-db.com/exploits/17491
+Exploit Title: vsftpd 2.3.4 - Backdoor Command Execution (Metasploit)  
+https://www.exploit-db.com/exploits/17491  
 
 53/tcp  
 Exploit: BIND 9.4.2 - Remote DNS Cache Poisoning (Metasploit) 
+https://www.exploit-db.com/exploits/6122  
 
 80/tcp  
 Apache 1.4/2.2.x - APR 'apr_fnmatch()' Denial of Service
 Apache 2.2.4 - 413 Error HTTP Request Method Cross-Site Scripting 
 
 111/tcp  
-RPCBind / libtirpc - Denial of Service
+RPCBind / libtirpc - Denial of Service  
+https://www.exploit-db.com/exploits/41974  
 
 139/tcp  
 445/tcp  
-Samba < 3.0.20 - Remote Heap Overflow
+Samba < 3.0.20 - Remote Heap Overflow  
+https://www.exploit-db.com/exploits/7701  
 
 2121/tcp    
 ProFTPD IAC Remote Root Exploit
