@@ -32,6 +32,7 @@ Port/Title
 
 21/tcp  
 Exploit Title: vsftpd 2.3.4 - Backdoor Command Execution (Metasploit)
+https://www.exploit-db.com/exploits/17491
 
 53/tcp  
 Exploit: BIND 9.4.2 - Remote DNS Cache Poisoning (Metasploit) 
